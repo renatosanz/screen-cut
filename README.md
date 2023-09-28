@@ -40,4 +40,3 @@ Now, you can assign a custom key combination to execute this script. Follow the 
 Assign a key combination for the shortcut and click "Apply" to save the configuration.
 
 Once you have configured the custom shortcut, you can press the assigned key combination to capture a part of the screen and copy it to the clipboard.
-# screen-cut
